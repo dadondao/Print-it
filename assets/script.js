@@ -60,10 +60,8 @@ function dotSelected(n){
 			dots.children[j].className = 'dot dot_selected';
 		}else{
 			dots.children[j].className = 'dot';
-		}
-		;
-
-	}
-
+		};
+	};
+	
 };
 
